@@ -1,2 +1,2 @@
-Length of rendering 10 000 frames was: 14 seconds.
-Average fps is: 714.286 frames per seconds.
+Length of rendering 10 000 frames was: 16 seconds.
+Average fps is: 625 frames per seconds.
