@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
 					ShowImage.setPixel(x, y, Rgb);
 				}
 			}
-			label.render(&QPixmap::fromImage(ShowImage));
+			label.setPixmap(QPixmap::fromImage(ShowImage));
 			label.repaint();
 		}
 	}
