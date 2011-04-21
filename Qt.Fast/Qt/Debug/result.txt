@@ -1,0 +1,2 @@
+Length of rendering 100 frames was: 4 seconds.
+Average fps is: 25 frames per seconds.
